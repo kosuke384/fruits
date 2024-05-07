@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.9.3, SVG Export Plug-In . SVG Version: 9.03 Build 53313)  -->
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 250 250" style="enable-background:new 0 0 250 250;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{font-family:'NotoSansCJKjp-Bold-90ms-RKSJ-H';}
+	.st2{font-size:12px;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M125,2c32.85,0,63.74,12.79,86.97,36.03C235.21,61.26,248,92.15,248,125s-12.79,63.74-36.03,86.97
+			C188.74,235.21,157.85,248,125,248s-63.74-12.79-86.97-36.03C14.79,188.74,2,157.85,2,125s12.79-63.74,36.03-86.97
+			C61.26,14.79,92.15,2,125,2 M125,0C55.96,0,0,55.96,0,125s55.96,125,125,125s125-55.96,125-125S194.04,0,125,0L125,0z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 107 66.7236)"><tspan x="0" y="0" class="st0 st1 st2">全国の</tspan><tspan x="-60" y="21" class="st0 st1 st2">コンビニエンストアで販売中</tspan></text>
+	<g>
+		<path class="st0" d="M82.78,193.74h45.94v-26.49h22.06v26.49h16.43v-44.7H82.78V193.74z M99.34,167.25h13.24v13.24H99.34V167.25z"
+			/>
+		<path class="st0" d="M135.4,176.72c-1.11,0-2.02,0.9-2.02,2.02v6.72c0,1.11,0.9,2.02,2.02,2.02c1.11,0,2.02-0.9,2.02-2.02v-6.72
+			C137.42,177.62,136.51,176.72,135.4,176.72z"/>
+		<polygon class="st0" points="120.09,117 106.53,117 103.75,144.07 119.35,144.07 		"/>
+		<polygon class="st0" points="146.25,144.07 143.47,117 129.91,117 130.65,144.07 		"/>
+		<polygon class="st0" points="173.55,144.07 167.22,117 153.3,117 157.54,144.07 		"/>
+		<polygon class="st0" points="96.7,117 82.78,117 76.45,144.07 92.46,144.07 		"/>
+	</g>
+</g>
+</svg>
